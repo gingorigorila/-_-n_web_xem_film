@@ -1,0 +1,24 @@
+.Hr_wrapper{
+    background-color: black;
+   
+}
+.Hr_movies{
+    max-width:200%;
+    margin:100px;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+.Hr_movie{
+   margin:10px;
+}
+.Hr_Poster{
+    max-width: 70%;
+    width:200px;
+    
+}
+.Hr_title{
+    color:white;
+    align-items: center;
+    width:270px;
+}

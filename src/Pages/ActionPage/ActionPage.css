@@ -1,0 +1,24 @@
+.At_wrapper{
+    background-color: black;
+   
+}
+.At_movies{
+    max-width:200%;
+    margin:100px;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+.At_movie{
+   margin:10px;
+}
+.At_Poster{
+    max-width: 70%;
+    width:200px;
+    
+}
+.At_title{
+    color:white;
+    align-items: center;
+    width:270px;
+}
